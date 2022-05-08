@@ -2,7 +2,7 @@
   "name": "dLocal Progressive Web App",
   "short_name": "dLocal PWA",
   "theme_color": "#0D0564",
-  "background_color": "#000000",
+  "background_color": "#FFFFFF",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
@@ -48,6 +48,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }
